@@ -1,0 +1,24 @@
+# Ignore node modules
+node_modules/
+
+# Ignore environment variables
+.env
+
+# Ignore logs
+logs
+*.log
+npm-debug.log*
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore build artifacts (optional, if you build or compile)
+dist/
+build/
+
+# Optional: Ignore temporary files
+*.swp
+*.swo
+
+
